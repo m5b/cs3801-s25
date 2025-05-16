@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
     -ms-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
-    background-image: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, 1)), url(../images/header1.png);
+    background-image: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, 1)), url('../images/header1.png');
     background-size: auto, cover;
     background-attachment: fixed;
     background-position: center, center;
@@ -697,7 +697,7 @@ body.is-loading #banner p {
 }
 
 .elements-header {
-	background-image: url(../images/02_element_header.jpg);
+	background-image: url('../images/02_element_header.jpg');
 	height: 475px;
     background-position-y: -300px;
     background-position-x: -500px;
