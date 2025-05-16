@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 #four table {
   font-size: 18px;
   line-height: 1.8;
-  color: #ffffff;
+  color: #000000;
 }
 
 #four table {
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-.four-features{
+.four-features{css
 	background-color: #29344e;
 	border-radius: 8px;
 /*	margin: 30px 35px;*/
