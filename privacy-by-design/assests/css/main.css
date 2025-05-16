@@ -87,38 +87,47 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
+#four {
+  font-size: 18px;
+  line-height: 1.75em;
+}
 
 #four h4 {
   font-size: 24px;
   margin-top: 30px;
-  margin-bottom: 15px;
-  font-weight: 700;
+  margin-bottom: 20px;
 }
 
 #four ul,
-#four ol,
-#four table {
-  font-size: 18px;
-  line-height: 1.8;
-  color: #000000;
+#four ol {
+  padding-left: 20px;
+  margin-bottom: 25px;
+}
+
+#four li {
+  margin-bottom: 10px;
 }
 
 #four table {
   width: 100%;
-  margin-top: 10px;
+  font-size: 17px;
+  line-height: 1.6em;
   border-collapse: collapse;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
-#four table td,
-#four table th {
-  padding: 10px 12px;
-  border: 1px solid #ffffff44;
+#four table th,
+#four table td {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 10px 15px;
   vertical-align: top;
 }
 
-#four .col-md-6 {
-  padding: 30px;
+#four .row > div[class*="col-"] {
+  padding: 30px 40px;
 }
+
 
 
 
