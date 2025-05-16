@@ -89,32 +89,37 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #four h4 {
+  font-size: 24px;
   margin-top: 30px;
-  color: #ffffff;
-  font-size: 22px;
+  margin-bottom: 15px;
+  font-weight: 700;
 }
 
 #four ul,
 #four ol,
 #four table {
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: 18px;
+  line-height: 1.8;
   color: #ffffff;
 }
 
 #four table {
   width: 100%;
-  margin-top: 15px;
-  background-color: transparent;
+  margin-top: 10px;
   border-collapse: collapse;
 }
 
 #four table td,
 #four table th {
-  padding: 6px 10px;
-  border: 1px solid #ffffff40;
+  padding: 10px 12px;
+  border: 1px solid #ffffff44;
   vertical-align: top;
 }
+
+#four .col-md-6 {
+  padding: 30px;
+}
+
 
 
 .four-features{
