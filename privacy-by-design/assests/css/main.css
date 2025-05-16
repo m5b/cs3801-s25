@@ -2,7 +2,7 @@
 	outline: none !important;
 }
 body, h1, h2, h3, h4, h5, h6, p, li, td, th, a, button, input, textarea {
-  font-family: 'Roboto', sans-serif !important;
+  font-family: Raleway, Helvetica, sans-serif !important;
 }
 
 
@@ -80,13 +80,13 @@ h1, h2, h3, h4, h5, h6 {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(36, 45, 68, 0.85); /* dark overlay with 85% opacity */
+    background-color: rgba(36, 45, 68, 0.85);
     z-index: 0;
 }
 
 #two .container {
     position: relative;
-    z-index: 1; /* places the text above the overlay */
+    z-index: 1;
 }
 
 
@@ -100,8 +100,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #four h4 {
   font-size: 24px;
-  margin-top: 30px;
-  margin-bottom: 20px;
 }
 
 #four ul,
