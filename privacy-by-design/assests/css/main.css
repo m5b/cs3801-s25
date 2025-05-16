@@ -109,6 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #four ul, #four ol {
 	margin-top: 25px ;
+	padding-top: 25px;
   padding-left: 20px;
   margin-bottom: 25px;
 }
