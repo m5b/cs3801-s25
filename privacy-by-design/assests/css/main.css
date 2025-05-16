@@ -1,8 +1,12 @@
 * {
 	outline: none !important;
 }
-body, h1, h2, h3, h4, h5, h6, p, li, td, th, a, button, input, textarea {
+
+body, h1, h2, h3, h4, h5, h6, p, li, td, th, a, span, input, textarea, button {
   font-family: Raleway, Helvetica, sans-serif !important;
+  font-size: 18px;
+  line-height: 1.6;
+  color: inherit;
 }
 
 
