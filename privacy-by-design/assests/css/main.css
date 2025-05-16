@@ -1454,7 +1454,7 @@ textarea#message {
     width:100%;
     height:100%;
     overflow:visible;
-    background: #fff url('../images/preloader.gif') no-repeat center center;
+    background: #fff url('../images/loader1.gif') no-repeat center center;
 }
 
 #one ol {
