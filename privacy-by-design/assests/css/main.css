@@ -122,16 +122,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 30px;
 }
 
-#four table th,
-#four table td {
+#four table th, #four table td {
   border: 1px solid rgba(255, 255, 255, 0.3);
   padding: 10px 15px;
   vertical-align: top;
 }
 
-#four .row > div[class*="col-"] {
-  padding: 30px 40px;
-}
 #four a {
   color: #69c0ff;
   text-decoration: none;
