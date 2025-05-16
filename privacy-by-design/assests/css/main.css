@@ -88,9 +88,12 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #four {
-  font-size: 18px;
-  line-height: 1.75em;
+  background-color: #242d44;
+  color: #ffffff;
+  padding-top: 100px;
+  padding-bottom: 50px;
 }
+
 
 #four h4 {
   font-size: 24px;
@@ -127,6 +130,16 @@ h1, h2, h3, h4, h5, h6 {
 #four .row > div[class*="col-"] {
   padding: 30px 40px;
 }
+#four a {
+  color: #69c0ff;
+  text-decoration: none;
+}
+
+#four a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
 
 
 
