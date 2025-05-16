@@ -89,7 +89,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #four {
   background-color: #242d44;
-  color: #ffffff;
+    color: #ffffff;
+    position: relative;
+    z-index: 1;
   padding-top: 100px;
   padding-bottom: 50px;
 }
